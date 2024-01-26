@@ -1,6 +1,6 @@
-# Awesome Ethereum Economy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Ethereum Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Ethereum Economy focuses on fee mechanism, proof-of-stake guarantee and token utility in the Ethereum ecosystem.
+Ethereum Economics focuses on fee mechanism, proof-of-stake guarantee and token utility in the Ethereum ecosystem.
 
 <div align="center">
   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Supply-and-demand.svg/1920px-Supply-and-demand.svg.png">
