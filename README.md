@@ -1,6 +1,8 @@
 # Awesome ETHconomics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome resources related to crypto-economics insights on protocol mechanism design, fee model, token utility within Ethereum ecosystem.
+</div>
+We are still working on this repo, you are very welcome to contribute!
 
 <div align="center">
   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Supply-and-demand.svg/1920px-Supply-and-demand.svg.png">
@@ -171,8 +173,10 @@ MEV Podcast Series by Bell Curve, [ep1](https://www.youtube.com/watch?v=_8DkRO60
 [Comprehensive coverage of EIP-4844](https://www.eip4844.com/)
 
 ## DeFi
+Stay tuned!
 
 ## Governance in crypto-economics
+Stay tuned!
 
 ## Tokenomics
 
@@ -183,6 +187,7 @@ MEV Podcast Series by Bell Curve, [ep1](https://www.youtube.com/watch?v=_8DkRO60
 [Simple Tokenomics for a Proof-of-Stake Utility Token](https://starkware.co/resource/simple-tokenomics-for-a-proof-of-stake-utility-token/)
 
 ## Case studies
+Stay tuned!
 
 ## Research groups, forums and communities
 
