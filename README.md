@@ -195,6 +195,8 @@ Stay tuned!
 
 [RIG Open Problems (ROPs)](https://www.notion.so/c11382c213f949a4b89927ef4e962adf?pvs=21)
 
+[ethresearchbot, AI written summaries of new forum posts on http://ethresear.ch](https://twitter.com/ethresearchbot)
+
 [ETHconomics @ Devconnect 2022](https://www.youtube.com/playlist?list=PLTLjFJ0OQOj5PHRvA2snoOKt2udVsyXEm)
 
 [ETHconomics 2 @ Devconnect in Istanbul 2023](https://www.notion.so/f3ff71566e8140bfa832c2462288a14c?pvs=21)
@@ -211,9 +213,13 @@ Stay tuned!
 
 [Frontier Research](https://frontier.tech/)
 
+[DATA ALWAYS, crypto data analysis](https://dataalways.substack.com/)
+
 ## Courses and educational resources
 
 [cadCAD Masterclass: Ethereum Validator Economics](https://www.cadcad.education/course/masterclass-ethereum)
+
+[Ethereum Roadmap](https://ethroadmap.com/)
 
 ## Podcasts and videos
 
@@ -232,6 +238,15 @@ Stay tuned!
 [Ultra sound money](https://ultrasound.money/)
 
 [Crypto data nerd](https://0xkofi.com/)
+
+[Layer 2 fundamentals and blockspace analytics, growthepie.xyz](https://twitter.com/growthepie_eth)
+
+[Nansen](https://twitter.com/nansen_ai)
+
+[DefiLlama, open and transparent DeFi analytics](https://twitter.com/DefiLlama)
+
+[Dune, Crypto's Data Platform](https://twitter.com/DuneAnalytics)
+
 # Contributing
 
 Contributions are very welcome!
